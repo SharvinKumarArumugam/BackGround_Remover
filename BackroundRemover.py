@@ -1,5 +1,5 @@
-!pip install rembg
-!pip install onnxruntime
+pip install rembg
+pip install onnxruntime
 import streamlit as st
 from rembg import remove
 from PIL import Image
